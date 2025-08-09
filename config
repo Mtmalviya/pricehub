@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[branch "main"]
+	vscode-merge-base = origin/main
+	vscode-merge-base = origin/main
+[gui]
+	wmstate = normal
+	geometry = 1109x563+224+224 216 255
+[remote "origin"]
+	url = https://github.com/Mtmalviya/pricehub.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
